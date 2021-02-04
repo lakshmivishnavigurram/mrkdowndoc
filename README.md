@@ -35,4 +35,14 @@ our college name is **srk institute of technology** *nakutelesule*
 # links
  nagurichi teliyali ante [google]
  (https://www.google.com)
+ 
+ # table
+ 
+ s.no|name|marks
+ ----|----|----
+ 1|vysh|90
+ 2|priya|90
+ 3|roy|95
+ 4|chandhana|90
+ 
   
